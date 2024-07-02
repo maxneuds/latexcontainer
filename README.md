@@ -1,2 +1,1 @@
-# latexcontainer
-VS-Code devcontainer for latex running on linux
+Because of the lack of working docker setups for latex documents I created this ready to use setup for VS Code.
